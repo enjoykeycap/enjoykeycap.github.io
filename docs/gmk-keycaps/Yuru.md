@@ -57,7 +57,7 @@ NOTE: USD to CNY exchange rate is 6.83
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
 |Alpha|CP|RAL 010 30 30
-|Modifiers|RAL 010 30 30|WS2
+|Modifiers|RAL 010 30 30|CP
 |Accent|RAL 190 80 25|WS2
 
 <img src="{{ 'assets/images/gmk-keycaps/yuru/color.jpg' | relative_url }}" alt="color" class="image featured">
