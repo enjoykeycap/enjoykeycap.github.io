@@ -17,6 +17,7 @@ title: Keycaps Info From Matrix
 description: Stay Hungry! Stay Foolish!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://enjoykeycap.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+avatar: assets/images/avatar.jpg
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
