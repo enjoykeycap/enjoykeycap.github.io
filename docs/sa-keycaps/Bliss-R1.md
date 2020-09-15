@@ -1,14 +1,14 @@
 ---
-title: Bliss
+title: Bliss R1
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 310935
 ---
 
-# Bliss
+# Bliss R1
 
-ref link: [Bliss GH GB Link](https://geekhack.org/index.php?topic=101407.0)
+ref link: [Bliss R1 GH GB Link](https://geekhack.org/index.php?topic=101407.0)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -68,7 +68,7 @@ NOTE: USD to RMB exchange rate is 6.88
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GC.png' | relative_url }}" alt="colorGC" height="75" width="170"></th>
   </tr>
   <tr>
-    <th>Pantone 13-1406</th>
+    <th>Pantone 13-1406TCX</th>
     <th></th>
   </tr>
 </table>
