@@ -21,6 +21,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Carbon R3 大碳R3](docs/sa-keycaps/Carbon-R3/)
 * [Nightlight](docs/sa-keycaps/Nightlight/)
 * [Bliss R2](docs/sa-keycaps/Bliss-R2/)
 * [Jadeite 翠玉白菜](docs/sa-keycaps/Jadeite/)
