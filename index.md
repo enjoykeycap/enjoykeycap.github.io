@@ -141,6 +141,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Noire](docs/gmk-keycaps/Noire/)
 * [Space Cadet R2 太空学员R2](docs/gmk-keycaps/Space-Cadet-R2/)
 * [Red Dragon 西方龙](docs/gmk-keycaps/Red-Dragon/)
 * [Demon Sword](docs/gmk-keycaps/Demon-Sword/)
