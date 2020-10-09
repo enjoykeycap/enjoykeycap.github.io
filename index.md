@@ -141,6 +141,8 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Mudbeam](docs/gmk-keycaps/Mudbeam/)
+* [Grand Prix 大奖赛](docs/gmk-keycaps/Grand-Prix/)
 * [Retrocast](docs/gmk-keycaps/Retrocast/)
 * [Rainy Day 雨天](docs/gmk-keycaps/Rainy-Day/)
 * [Noire](docs/gmk-keycaps/Noire/)
