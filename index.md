@@ -143,6 +143,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Taegeukgi](docs/gmk-keycaps/Taegeukgi/)
 * [Red Line 仪表盘](docs/gmk-keycaps/Red-Line/)
 * [Mudbeam](docs/gmk-keycaps/Mudbeam/)
 * [Grand Prix 大奖赛](docs/gmk-keycaps/Grand-Prix/)
