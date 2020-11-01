@@ -143,6 +143,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Honor](docs/gmk-keycaps/Honor/)
 * [Hallyu](docs/gmk-keycaps/Hallyu/)
 * [Taegeukgi](docs/gmk-keycaps/Taegeukgi/)
 * [Red Line 仪表盘](docs/gmk-keycaps/Red-Line/)
