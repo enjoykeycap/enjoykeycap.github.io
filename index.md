@@ -143,6 +143,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Fundamentals](docs/gmk-keycaps/Fundamentals/)
 * [Pride](docs/gmk-keycaps/Pride/)
 * [Honor](docs/gmk-keycaps/Honor/)
 * [Hallyu](docs/gmk-keycaps/Hallyu/)
