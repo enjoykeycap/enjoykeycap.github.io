@@ -145,6 +145,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Amethyst 紫水晶](docs/gmk-keycaps/Amethyst/)
 * [Fundamentals](docs/gmk-keycaps/Fundamentals/)
 * [Pride](docs/gmk-keycaps/Pride/)
 * [Honor](docs/gmk-keycaps/Honor/)
