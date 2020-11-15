@@ -17,6 +17,12 @@ Just buy it :)
 
 ---
 
+Caution 请注意:
+
+Color Codes listed in this page is only players to mix sets reference. Please do NOT copy design via it !!!
+本页面色卡信息只供玩家混搭键帽参考，请勿用于抄袭他人设计！！！
+
+
 ## SA KeyCaps
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
