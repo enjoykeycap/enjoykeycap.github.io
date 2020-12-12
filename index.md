@@ -151,6 +151,7 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Gregory](docs/gmk-keycaps/Gregory/)
 * [Hanami Dango](docs/gmk-keycaps/Hanami-Dango/)
 * [80082](docs/gmk-keycaps/80082/)
 * [Serika R2 芹夏R2](docs/gmk-keycaps/Serika-R2/)
