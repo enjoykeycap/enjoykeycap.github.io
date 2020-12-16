@@ -151,6 +151,7 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Avanguardia](docs/gmk-keycaps/Avanguardia/)
 * [Gregory](docs/gmk-keycaps/Gregory/)
 * [Hanami Dango](docs/gmk-keycaps/Hanami-Dango/)
 * [80082](docs/gmk-keycaps/80082/)
