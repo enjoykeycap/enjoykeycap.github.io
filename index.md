@@ -17,11 +17,10 @@ Just buy it :)
 
 ---
 
-Caution 请注意:
+Happy Chinese New Year!
+牛年大吉！
 
-Color Codes listed in this page is only for players to mix sets reference. Please do NOT copy design !!!
-本页面色卡信息只供玩家混搭键帽参考，请勿用于抄袭他人设计！！！
-
+ <img src="{{ 'assets/images/astro.gif' | relative_url }}" alt="Astro" height="48" width="48">
 
 ## SA KeyCaps
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
@@ -155,6 +154,8 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Maestro](docs/gmk-keycaps/Maestro/)
+* [Devoted](docs/gmk-keycaps/Devoted/)
 * [Umka](docs/gmk-keycaps/Umka/)
 * [Dots R2](docs/gmk-keycaps/Dots-R2/)
 * [Dandy](docs/gmk-keycaps/Dandy/)
