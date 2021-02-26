@@ -154,6 +154,7 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Star](docs/gmk-keycaps/Star/)
 * [Inukuma](docs/gmk-keycaps/Inukuma/)
 * [Iceberg](docs/gmk-keycaps/Iceberg/)
 * [Maestro](docs/gmk-keycaps/Maestro/)
