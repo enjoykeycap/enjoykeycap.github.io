@@ -17,10 +17,9 @@ Just buy it :)
 
 ---
 
-Happy Chinese New Year!
-牛年大吉！
+[zFrontier - a Thief](https://old.reddit.com/r/MechanicalKeyboards/comments/p8ajk1/zfrontier_a_thief/)  
+<img src="{{ 'assets/images/picture3.png' | relative_url }}" alt="Thief" height="480" width="480">
 
- <img src="{{ 'assets/images/astro.gif' | relative_url }}" alt="Astro" height="48" width="48">
 
 ## SA KeyCaps
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
