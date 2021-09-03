@@ -9,7 +9,7 @@ permalink: /
 # Enjoy Beautiful KeyCaps 
 {: .fs-9 }
 
-<img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48">   
+<img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48">
 Just buy it :) 
 {: .fs-6 .fw-300 }
 
@@ -17,7 +17,7 @@ Just buy it :)
 
 ---
 
-[zFrontier - a Thief](https://old.reddit.com/r/MechanicalKeyboards/comments/p8ajk1/zfrontier_a_thief/)  
+[zFrontier - a Thief](https://old.reddit.com/r/MechanicalKeyboards/comments/p8ajk1/zfrontier_a_thief/)   
 <img src="{{ 'assets/images/picture3.png' | relative_url }}" alt="Thief" height="480" width="480">
 
 
@@ -25,6 +25,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Bubble R2 泡泡R2](docs/sa-keycaps/Bubble-R2/)
 * [Fledgling 雏鸟](docs/sa-keycaps/Fledgling/)
 * [Reload Novelties](docs/sa-keycaps/Reload-Novelties/)
 * [Copper 铜](docs/sa-keycaps/Copper/)
@@ -69,7 +70,7 @@ Just buy it :)
 * [Yuri 尤里](docs/sa-keycaps/Yuri/)
 * [Royal Navy 皇家海军](docs/sa-keycaps/Royal-Navy/)
 * [128K AE](docs/sa-keycaps/128K-AE/)
-* [Bliss-R1](docs/sa-keycaps/Bliss-R1/)
+* [Bliss R1](docs/sa-keycaps/Bliss-R1/)
 * [Novelties Halloween 万圣节个性](docs/sa-keycaps/Novelties-Halloween/)
 * [Fluffy Clouds](docs/sa-keycaps/Fluffy-Clouds/)
 * [Magic City](docs/sa-keycaps/Magic-City/)
@@ -167,6 +168,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Originative Cyrillic R2 黑俄文R2](docs/gmk-keycaps/Originative-Cyrillic-R2/)
+* [Classic Black on White 经典白黑](docs/gmk-keycaps/Classic-Black-on-White/)
+* [Terror Below](docs/gmk-keycaps/Terror-Below/)
 * [Classic Arabic 经典阿拉伯文](docs/gmk-keycaps/Classic-Arabic/)
 * [Pharaoh 法老王](docs/gmk-keycaps/Pharaoh/)
 * [Slasher](docs/gmk-keycaps/Slasher/)
@@ -381,7 +385,7 @@ Just buy it :)
 * [High Voltage](docs/gmk-keycaps/High-Voltage/)
 * [B](docs/gmk-keycaps/B/)
 * [Nautilus Nightmares 噩梦鹦鹉螺](docs/gmk-keycaps/Nautilus-Nightmares/)
-* [DualShot-R1](docs/gmk-keycaps/DualShot-R1/)
+* [DualShot R1](docs/gmk-keycaps/DualShot-R1/)
 * [Rudy 鲁迪](docs/gmk-keycaps/Rudy/)
 * [Olivia++](docs/gmk-keycaps/Olivia++/)
 * [Ursa](docs/gmk-keycaps/Ursa/)
@@ -397,7 +401,7 @@ Just buy it :)
 * [Delta](docs/gmk-keycaps/Delta/)
 * [DMG R2](docs/gmk-keycaps/DMG-R2/)
 * [Alter](docs/gmk-keycaps/Alter/)
-* [Bingsu 红豆刨冰](docs/gmk-keycaps/Bingsu/)
+* [Bingsu R1 红豆刨冰R1](docs/gmk-keycaps/Bingsu-R1/)
 * [Greek Beige Add-on 米色希腊文增补](docs/gmk-keycaps/Greek-Beige-Add-on/)
 * [Coral 珊瑚](docs/gmk-keycaps/Coral/)
 * [Honeywell & Co.](docs/gmk-keycaps/Honeywell-Co/)
