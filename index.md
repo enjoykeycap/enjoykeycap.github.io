@@ -177,6 +177,15 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Jamon R2 火腿R2](docs/gmk-keycaps/Jamon-R2/)
+* [Maroon](docs/gmk-keycaps/Maroon/)
+* [Cream Matcha](docs/gmk-keycaps/Cream-Matcha/)
+* [Marmoreal](docs/gmk-keycaps/Marmoreal/)
+* [Purple-ish](docs/gmk-keycaps/Purple-ish/)
+* [Cluck](docs/gmk-keycaps/Cluck/)
+* [Orange Boi](docs/gmk-keycaps/Orange-Boi/)
+* [Nimbus](docs/gmk-keycaps/Nimbus/)
+* [Mercury 汞](docs/gmk-keycaps/Mercury/)
 * [Indigo](docs/gmk-keycaps/Indigo/)
 * [Manta](docs/gmk-keycaps/Manta/)
 * [Galaxy 银河](docs/gmk-keycaps/Galaxy/)
@@ -193,7 +202,6 @@ Just buy it :)
 * [Trackday](docs/gmk-keycaps/Trackday/)
 
 ### 2021
-* [Mercury 汞](docs/gmk-keycaps/Mercury/)
 * [Power Chord](docs/gmk-keycaps/Power-Chord/)
 * [Olive R2 橄榄R2](docs/gmk-keycaps/Olive-R2/)
 * [Camping R3 野营R3](docs/gmk-keycaps/Camping-R3/)
